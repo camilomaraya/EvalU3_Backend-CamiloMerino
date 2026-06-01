@@ -65,7 +65,7 @@ docker compose exec app php generate-swagger.php
 Con los contenedores corriendo: [http://localhost:8080/api/documentation](http://localhost:8080/api/documentation)
 
 - Camilo Meriño
-Repositorio: https://github.com/camilomaraya/EvalU3_Backend-CamiloMerino.git
+- Repositorio: https://github.com/camilomaraya/EvalU3_Backend-CamiloMerino.git
 
 ## Evaluación
 
